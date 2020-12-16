@@ -5,7 +5,7 @@ const collectionKey = "users"; //name of the collection
 
 admin.initializeApp({
   credential: admin.credential.cert(serviceAccount),
-  databaseURL: "https://connekt-d2ab5.firebaseio.com"
+  databaseURL: "YOUR_DATABASE_URL"
 });
 
 const firestore = admin.firestore();
