@@ -1,0 +1,53 @@
+{
+    "Vehicle Concentration": [{
+            "Districts": "Ngamiland",
+            "No. Of Vehicles registered": "28,070",
+            "Risk Weighting": "7%"
+        },
+        {
+            "Districts": "Chobe",
+            "No. Of Vehicles registered": "20,050",
+            "Risk Weighting": "5%"
+        },
+        {
+            "Districts": "Ghanzi",
+            "No. Of Vehicles registered": "20,050",
+            "Risk Weighting": "5%"
+        },
+        {
+            "Districts": "Kgalagadi",
+            "No. Of Vehicles registered": "16,040",
+            "Risk Weighting": "4%"
+        },
+        {
+            "Districts": "Southern",
+            "No. Of Vehicles registered": "44,110",
+            "Risk Weighting": "11%"
+        },
+        {
+            "Districts": "South East",
+            "No. Of Vehicles registered": "112,280",
+            "Risk Weighting": "28%"
+        },
+        {
+            "Districts": "Kweneng",
+            "No. Of Vehicles registered": "48,120",
+            "Risk Weighting": "12%"
+        },
+        {
+            "Districts": "Kgatleng",
+            "No. Of Vehicles registered": "32,080",
+            "Risk Weighting": "8%"
+        },
+        {
+            "Districts": "Central",
+            "No. Of Vehicles registered": "64,160",
+            "Risk Weighting": "16%"
+        },
+        {
+            "Districts": "North East",
+            "No. Of Vehicles registered": "16,040",
+            "Risk Weighting": "4%"
+        }
+    ]
+}

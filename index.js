@@ -1,11 +1,11 @@
 const admin = require('./node_modules/firebase-admin');
 const serviceAccount = require("./serviceAccountKey.json");
-const data = require("./data.json");
-const collectionKey = "users"; //name of the collection
+const data = require("./Animals.json");
+const collectionKey = "animals"; //name of the collection
 
 admin.initializeApp({
   credential: admin.credential.cert(serviceAccount),
-  databaseURL: "https://connekt-d2ab5.firebaseio.com"
+  databaseURL: "driver-alert-d439a.firebaseio.com"
 });
 
 const firestore = admin.firestore();

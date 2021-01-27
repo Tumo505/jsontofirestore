@@ -1,0 +1,27 @@
+{
+    "Road Quality": [{
+            "Description": "Portholes or lack thereof",
+            "Risk Weighting": "30%"
+        },
+        {
+            "Description": "Narrowness or openness of road",
+            "Risk Weighting": "13%"
+        },
+        {
+            "Description": "Even or uneven road",
+            "Risk Weighting": "12%"
+        },
+        {
+            "Description": "Sharp curves on road",
+            "Risk Weighting": "30%"
+        },
+        {
+            "Description": "Slopes at a gradient above established threshold",
+            "Risk Weighting": "5%"
+        },
+        {
+            "Description": "Roads with tarmac or roads with gravel",
+            "Risk Weighting": "10%"
+        }
+    ]
+}

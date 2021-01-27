@@ -1,0 +1,23 @@
+{
+    "Week": [{
+            "Week No.": "Week 1",
+            "Risk Weighting": "9%"
+        },
+        {
+            "Week No.": "Week 2",
+            "Risk Weighting": "6%"
+        },
+        {
+            "Week No.": "Week 3",
+            "Risk Weighting": "15%"
+        },
+        {
+            "Week No.": "Week 4",
+            "Risk Weighting": "50%"
+        },
+        {
+            "Week No.": "Week 5",
+            "Risk Weighting": "20%"
+        }
+    ]
+}

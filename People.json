@@ -1,0 +1,43 @@
+{
+    "People Population": [{
+            "Districts": "Ngamiland",
+            "% Distribution of Population": "11%"
+        },
+        {
+            "Districts": "Chobe",
+            "% Distribution of Population": "8%"
+        },
+        {
+            "Districts": "Ghanzi",
+            "% Distribution of Population": "3%"
+        },
+        {
+            "Districts": "Kgalagadi",
+            "% Distribution of Population": "8%"
+        },
+        {
+            "Districts": "Southern",
+            "% Distribution of Population": "17%"
+        },
+        {
+            "Districts": "South East",
+            "% Distribution of Population": "8%"
+        },
+        {
+            "Districts": "Kweneng",
+            "% Distribution of Population": "10%"
+        },
+        {
+            "Districts": "Kgatleng",
+            "% Distribution of Population": "17%"
+        },
+        {
+            "Districts": "Central",
+            "% Distribution of Population": "12%"
+        },
+        {
+            "Districts": "North East",
+            "% Distribution of Population": "6%"
+        }
+    ]
+}

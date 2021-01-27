@@ -1,0 +1,35 @@
+[
+        {
+            "Speed": "Below 60km/h",
+            "Risk Weighting": "3%"
+        },
+        {
+            "Speed": "60km/h - 80km/h",
+            "Risk Weighting": "5%"
+        },
+        {
+            "Speed": "80km/h - 100km/h",
+            "Risk Weighting": "8%"
+        },
+        {
+            "Speed": "100km/h - 120km/h",
+            "Risk Weighting": "10%"
+        },
+        {
+            "Speed": "120km/h - 140km/h",
+            "Risk Weighting": "11%"
+        },
+        {
+            "Speed": "140km/h - 180km/h",
+            "Risk Weighting": "13%"
+        },
+        {
+            "Speed": "180km/h - 200km/h",
+            "Risk Weighting": "20%"
+        },
+        {
+            "Speed": "Above 200km/h",
+            "Risk Weighting": "30%"
+        }
+       
+    ]

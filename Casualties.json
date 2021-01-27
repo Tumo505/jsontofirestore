@@ -1,0 +1,11 @@
+{
+    "Casulaties": [{
+            "Gender": "Males",
+            "% Distribution": "65%"
+        },
+        {
+            "Gender": "Females",
+            "% Distribution": "35%"
+        }
+    ]
+}

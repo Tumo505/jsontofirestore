@@ -1,7 +1,7 @@
 {
   "name": "jsontofirestore",
   "version": "1.0.0",
-  "description": "uploadt json to firestore",
+  "description": "upload json to firestore",
   "main": "index.js",
   "scripts": {
     "test": "start"
@@ -9,6 +9,8 @@
   "author": "Tumo Kgosiyame",
   "license": "ISC",
   "dependencies": {
+    "@google-cloud/firestore": "^4.9.1",
+    "firebase": "^8.2.4",
     "firebase-admin": "^9.4.2"
   }
 }
