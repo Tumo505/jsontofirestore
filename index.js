@@ -5,7 +5,11 @@ const collectionKey = "animals"; //name of the collection
 
 admin.initializeApp({
   credential: admin.credential.cert(serviceAccount),
+<<<<<<< HEAD
   databaseURL: "driver-alert-d439a.firebaseio.com"
+=======
+  databaseURL: "YOUR_DATABASE_URL"
+>>>>>>> 6125b0cf499e34e1caa422cab8e021bc4d05bb91
 });
 
 const firestore = admin.firestore();
